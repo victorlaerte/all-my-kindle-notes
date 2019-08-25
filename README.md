@@ -1,6 +1,6 @@
 # Sumário
 
-- [7 Idéias de negócios para ter Sucesso na Internet](books/7\ Idéias\ de\ negócios\ para\ ter\ Sucesso\ na\ Internet)
+- [7 Idéias de negócios para ter Sucesso na Internet](books/7%20Idéias%20de%20negócios%20para%20ter%20Sucesso%20na%20Internet)
 - A Extraordinária História da China
 - A Ilíada de Homero adaptada para jovens
 - A República (traduzido) (Coleção Filosofia à Maneira Clássica)
