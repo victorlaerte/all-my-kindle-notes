@@ -1,6 +1,6 @@
 # Descrição
 
-Decidi reunir as notas de minhas leituras nesse repositório, para posterior consulta e revisão. A todos que interessarem ou quiserem discutir algum livro, sintam-se em casa.
+Decidi reunir as notas de minhas leituras via Kindle nesse repositório para posterior consulta e revisão. A todos que interessarem ou quiserem discutir algum livro, sintam-se em casa.
 
 # Sumário
 
