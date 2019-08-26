@@ -1,3 +1,7 @@
+# Descrição
+
+Decidi reunir as notas de minhas leituras nesse repositório, para posterior consulta e revisão. A todos que interessarem ou quiserem discutir algum livro, sintam-se em casa.
+
 # Sumário
 
 - [7 Idéias de negócios para ter Sucesso na Internet](books/7%20Idéias%20de%20negócios%20para%20ter%20Sucesso%20na%20Internet) - Jornada Digital
