@@ -192,11 +192,11 @@ alaranjado, com uma casca dura do lado de fora, molhado e bem macio por dentro, 
 algumas pessoas comem metade no café-da-manhã.
 ```
 Destaque (Amarelo) e nota | Posição 12280
-
+```
 - Quer dizer que eles realmente votam nos lagartos? – Ah, sim – disse Ford, dando de ombros –, é claro. – Mas
 - perguntou Arthur, sem medo de ser feliz – por quê? – Porque, se deixam de votar em um lagarto – explicou
 Ford –, o lagarto errado pode assumir o poder.
-
+```
 ```
 Leia esta citação. Qualquer semelhança é mera coincidência.
 ```
