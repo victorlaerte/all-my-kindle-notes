@@ -119,7 +119,7 @@ Resumindo: é um fato bem conhecido que todos os que querem governar as outras p
 os menos indicados para isso. Resumindo o resumo: qualquer pessoa capaz de se tornar presidente não deveria,
 em hipótese alguma, ter permissão para exercer o cargo. Resumindo o resumo do resumo: as pessoas são um
 problema.
-```xr
+```
 ```
 Leia esta citação.
 ```
