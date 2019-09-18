@@ -104,9 +104,6 @@ instalado com dez por cento de desconto, e o contador explicara que isso era ima
 explicara que aquele era o mais refinado, mais poderoso e mais sofisticado teleporte que o dinheiro podia
 comprar, e o contador explicara que o dinheiro não queria comprá-lo; o mestre-de-obras explicara que, ainda
 assim, as pessoas teriam que entrar e sair da nave, e o contador explicara que a nave dispunha de uma porta
-```
-
-```
 perfeitamente utilizável; o mestre-de-obras explicara que o contador podia ir se danar, e o contador explicara ao
 mestre-de-obras que aquela coisa que estava indo rapidamente em sua direção era um punho fechado. Após
 todas essas explicações terem sido concluídas, os trabalhos no teleporte foram interrompidos e ele foi incluído
@@ -122,7 +119,7 @@ Resumindo: é um fato bem conhecido que todos os que querem governar as outras p
 os menos indicados para isso. Resumindo o resumo: qualquer pessoa capaz de se tornar presidente não deveria,
 em hipótese alguma, ter permissão para exercer o cargo. Resumindo o resumo do resumo: as pessoas são um
 problema.
-```
+```xr
 ```
 Leia esta citação.
 ```
